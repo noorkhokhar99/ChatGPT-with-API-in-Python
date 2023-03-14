@@ -19,3 +19,17 @@ This will send a request to the OpenAI API with the prompt "Hello, how are you d
 You can modify the prompt to generate different types of responses. For example, you could ask a question, start a conversation, or provide some context for the model to work with.
 
 That's it! With these steps, you should be able to use ChatGPT with API in Python.
+
+
+
+<p align="center">
+<img src="https://github.com/noorkhokhar99/ChatGPT-with-API-in-Python/blob/main/best%20gaming.png">
+</p>
+
+
+
+
+
+
+### Inference on a video:
+https://www.youtube.com/c/pyresearch
